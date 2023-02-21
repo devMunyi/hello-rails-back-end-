@@ -6,6 +6,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="18" height="18"/> React Frontend](#react-frontend)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -46,6 +47,11 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Exposes an API endpoint to generate a random message]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="23" height="20"/> React Frontend <a name="react-frontend"></a>
+- Here is the Frontend part of the project [Hello React Frontend](https://github.com/devMunyi/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
